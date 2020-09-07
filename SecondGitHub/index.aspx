@@ -15,6 +15,8 @@
             <h3>1.Pradeep Mane
                 <br />
                 2.Reshma Dokhe
+                <br />
+                3.Sidhu More
             </h3>
         </div>
     </form>
